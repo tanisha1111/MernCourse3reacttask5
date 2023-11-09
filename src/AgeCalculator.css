@@ -1,0 +1,27 @@
+.age-calculator-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 20px;
+  }
+  
+  .age-calculator-title {
+    text-align: center;
+  }
+  
+  .age-calculator-input {
+    margin-bottom: 10px;
+  }
+  
+  .age-calculator-button {
+    background-color: blue;
+    color: white;
+    font-weight: bold;
+    padding: 10px;
+    cursor: pointer;
+  }
+  
+  .age-calculator-result {
+    font-weight: bold;
+  }
+  
